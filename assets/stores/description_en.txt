@@ -1,0 +1,14 @@
+This extension adds a button to the instructor page to filter courses by the instructor
+
+If you like the extension, I'd appreciate a review!
+★★★★★
+
+Thanks,
+Tad
+
+====================================
+
+This extension is open-source:
+https://github.com/uykusuzdev/udemy-instructor-filter
+
+Udemy is a trademark of Udemy, Inc. This browser extension is not a product of Udemy, Inc. and is not affiliated with Udemy, Inc. in any way.

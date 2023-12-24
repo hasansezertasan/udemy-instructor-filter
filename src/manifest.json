@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Udemy Instructor Filter",
+  "description": "Adds a button to the instructor page to filter courses by the instructor.",
+  "version": "0.0.1",
+  "author": "Hasan Sezer Taşan",
+  "homepage_url": "https://github.com/uykusuzdev/udemy-instructor-filter",
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.udemy.com/user/*"],
+      "js": ["script.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
