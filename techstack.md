@@ -25,7 +25,6 @@ Full tech stack [here](/techstack.md)
 ![](https://img.stackshare.io/repo.svg "repo") [hasansezertasan/udemy-instructor-filter](https://github.com/hasansezertasan/udemy-instructor-filter)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
 |2<br/>Tools used|02/29/24 <br/>Report generated|
-|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (1)
